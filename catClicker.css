@@ -15,6 +15,11 @@ body {
     width: 90%;
 }
 
+.content1 {
+  display: flex;
+  justify-content: space-around;
+}
+
 .clicktext {
   font-family: 'Crete Round', serif;
   font-size: 50px;
