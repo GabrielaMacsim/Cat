@@ -15,6 +15,13 @@ body {
     width: 90%;
 }
 
+.all {
+  flex-direction: row;
+  margin: auto;
+  width: 90%;
+  height: 100%;
+}
+
 .content1 {
   display: flex;
   justify-content: space-around;
@@ -34,6 +41,7 @@ body {
 
 #pisica {
   border: 1px solid #40390D;
-  width: 40%;
-  height: 40%;
+  width: 73%;
+  height: 73%;
+  margin-bottom: 20px;
 }
