@@ -35,11 +35,11 @@ body {
   color: #FFFBE5;
 }
 
-#clicks {
+#clicks1, #clicks2 {
   color: #40390D;
 }
 
-#pisica {
+#pisica1, #pisica2 {
   border: 1px solid #40390D;
   width: 73%;
   height: 73%;
